@@ -1,37 +1,32 @@
 # 戏曲字幕
 
-#### 介绍
-一款应用于戏曲直播时自动发送字幕的软件
+> #### 介绍
 
-#### 软件架构
-软件架构说明
+一款应用于戏曲直播时自动发送字幕的软件。
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+> #### 应用展示
+##### 戏曲字幕应用
+![戏曲字幕应用](https://gitee.com/xlgp/static/raw/master/xiquzimu/xiquzimu.png "戏曲字幕应用")
+##### 字幕界面
+![字幕界面](https://gitee.com/xlgp/static/raw/master/xiquzimu/zimu.png "字幕界面")
 
 
-#### 特技
+> #### 字幕数据库
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  由于没有服务器，字幕数据储存于Gitee仓库[戏曲唱词](https://gitee.com/xlgp/opera-lyrics)以及Github仓库[opera-lyrics](https://gitee.com/xlgp/opera-lyrics)上。
+2.  由于gitee会屏蔽某些词，可能会显示不全
+3.  github在墙外，可能上不去，然而数据比较全。
+
+> #### 使用说明
+
+1.  根据戏曲主播唱戏时选择对应的唱段即可，戏曲字幕会自动发送戏曲字幕。
+2.  由于有网络延时，发送字幕时可能会延后，此时自己调节一下即可。
+
+> #### 权限
+
+戏曲字幕需要开启无障碍功能服务。
+
+
+> #### 制作字幕
+
+[https://xlgp.gitee.io/changci.html](https://xlgp.gitee.io/changci.html)
